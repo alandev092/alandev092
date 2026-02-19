@@ -1,16 +1,38 @@
-## Hi there 👋
+<h3 align="left">Olá, eu sou Alan Nicolas 👋</h3>
 
-<!--
-**alandev092/alandev092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>Desenvolvedor Back End • Apaixonado pelos códigos</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Sou apaixonado por tecnologia e criatividade. Aqui você encontrará projetos e meus experimentos com IA, Java, Python e muito mais.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/Alan-Nicolas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:alanicolax@outlook.com"><img src="https://img.shields.io/badge/Email-34A853?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 🧠 Sobre Mim
+
+- 👨‍💻 Estagiário de TI na Defensoria Pública do Amazonas
+- 🎓 Finalizando Analise e Desenvolvimento de Sistemas
+- 🏆 Prêmios ou Certificações relevantes
+
+---
+
+## 🖥️ Destaques da Stack Tecnológica
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+
+---
+
+
+<p align="center"><i>Continue construindo. Um commit de cada vez. 🟩</i></p>
